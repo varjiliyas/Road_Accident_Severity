@@ -59,7 +59,7 @@ plt.xticks(rotation=60)
 plt.show()
 
 #Visualizing datasets using dabl(data analysis baseline library)
-!pip install dabl
+pip install dabl
 
 import dabl
 
